@@ -1,12 +1,12 @@
 # Codewars-in-C
 Resolution of some challenges of the website 'Codewars' in C 
 
-###Structure:
+### Structure:
 - **main.c**: main file from where i call all the function i'm gonna create, each function is relative to one challenge;
 - **some_title.c**: file relative to one single challenge, the text of eache challenge are liste below.
 
-###Challenges:
-- #####Counting Duplicate 
+### Challenges:
+- ##### Counting Duplicate 
     *Count the number of Duplicates*
     - **Objective:** Write a function that will return the count of distinct case-insensitive alphabetic characters and numeric digits 
       that occur more than once in the input string. The input string can be assumed to contain only alphabets 
