@@ -1,13 +1,5 @@
 #include <ctype.h>
 
-char* test1 = "abcde";
-char* test2 = "aabbcde";
-char* test3 = "aabBcde";
-char* test4 = "indivisibility";
-char* test5 = "Indivisibilities";
-char* test6 = "aA11";
-char* test7 = "ABBA";
-
 int char_in_array(char c, char *array, int lenght){
     int i;
     for(i=0; i<lenght; i++){

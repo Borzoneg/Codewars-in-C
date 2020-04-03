@@ -6,6 +6,10 @@
 
 #IncludeRegexTransform: 
 
+C:/Users/borzo/Documents/Programmazione/C/Codewars-in-C/Summing number's digit.c
+stdlib.h
+-
+
 C:/Users/borzo/Documents/Programmazione/C/Codewars-in-C/counting duplicates.c
 ctype.h
 -
@@ -15,4 +19,6 @@ stdio.h
 -
 counting duplicates.c
 C:/Users/borzo/Documents/Programmazione/C/Codewars-in-C/counting duplicates.c
+Summing number's digit.c
+C:/Users/borzo/Documents/Programmazione/C/Codewars-in-C/Summing number's digit.c
 

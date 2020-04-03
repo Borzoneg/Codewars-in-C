@@ -12,7 +12,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03219d97-adcc-4c3d-a1cd-6a18c4ccde49" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Summing number's digit.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Codewars_in_C.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Codewars_in_C.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/counting duplicates.c" beforeDir="false" afterPath="$PROJECT_DIR$/counting duplicates.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +82,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585647938182</updated>
-      <workItem from="1585647939458" duration="2276000" />
+      <workItem from="1585647939458" duration="2375000" />
+      <workItem from="1585939915593" duration="1284000" />
+      <workItem from="1585944229709" duration="2362000" />
     </task>
     <task id="LOCAL-00001" summary="First challenge counting duplicates">
       <created>1585650100748</created>
@@ -86,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585650100748</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First challenge counting duplicates">
+      <created>1585650265397</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585650265397</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,30 +112,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="First challenge counting duplicates" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="375" y="26" key="CommitChangelistDialog2" timestamp="1585650100235">
+    <state x="375" y="26" key="CommitChangelistDialog2" timestamp="1585650265050">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="375" y="26" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1585650100235" />
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1585649794120">
+    <state x="375" y="26" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1585650265050" />
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1585948142759">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585649794120" />
-    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1585649794120">
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585948142759" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1585948142759">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1585649794120" />
-    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1585649794120">
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1585948142759" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1585948142759">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1585649794120" />
-    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1585649794120">
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1585948142759" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1585948142759">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1585649794120" />
-    <state x="361" y="164" key="Vcs.Push.Dialog.v2" timestamp="1585650180845">
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1585948142759" />
+    <state x="361" y="164" key="Vcs.Push.Dialog.v2" timestamp="1585650278024">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="164" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1585650180845" />
+    <state x="361" y="164" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1585650278024" />
     <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1585649419550">
       <screen x="0" y="0" width="1536" height="864" />
     </state>

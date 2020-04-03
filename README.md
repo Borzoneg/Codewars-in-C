@@ -21,4 +21,13 @@ Resolution of some challenges of the website 'Codewars' in C
             "aA11" -> 2 # 'a' and '1'
             "ABBA" -> 2 # 'A' and 'B' each occur twice
 
+- ##### Summing a number's digits
+    *Count the number of Duplicates*
+    - **Objective:** Write a function named sumDigits which takes a number as input and returns the sum of the absolute 
+    value of each of the number's decimal digits.
+    - **Example**:
+
+          sum_digits(10)  // Returns 1
+          sum_digits(99)  // Returns 18
+          sum_digits(-32) // Returns 5
         
