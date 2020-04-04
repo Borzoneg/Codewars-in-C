@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Users/borzo/Documents/Programmazione/C/Codewars-in-C/main.c" "C:/Users/borzo/Documents/Programmazione/C/Codewars-in-C/cmake-build-debug/CMakeFiles/Codewars_in_C.dir/main.c.obj"
+  "C:/Users/borzo/Documents/Programmazione/C/Codewars-in-C/Code/main.c" "C:/Users/borzo/Documents/Programmazione/C/Codewars-in-C/cmake-build-debug/CMakeFiles/Codewars_in_C.dir/Code/main.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

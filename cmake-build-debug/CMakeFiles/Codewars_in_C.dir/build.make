@@ -56,27 +56,27 @@ include CMakeFiles/Codewars_in_C.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Codewars_in_C.dir/flags.make
 
-CMakeFiles/Codewars_in_C.dir/main.c.obj: CMakeFiles/Codewars_in_C.dir/flags.make
-CMakeFiles/Codewars_in_C.dir/main.c.obj: ../main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\borzo\Documents\Programmazione\C\Codewars-in-C\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Codewars_in_C.dir/main.c.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Codewars_in_C.dir\main.c.obj   -c C:\Users\borzo\Documents\Programmazione\C\Codewars-in-C\main.c
+CMakeFiles/Codewars_in_C.dir/Code/main.c.obj: CMakeFiles/Codewars_in_C.dir/flags.make
+CMakeFiles/Codewars_in_C.dir/Code/main.c.obj: ../Code/main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\borzo\Documents\Programmazione\C\Codewars-in-C\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Codewars_in_C.dir/Code/main.c.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\Codewars_in_C.dir\Code\main.c.obj   -c C:\Users\borzo\Documents\Programmazione\C\Codewars-in-C\Code\main.c
 
-CMakeFiles/Codewars_in_C.dir/main.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Codewars_in_C.dir/main.c.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\borzo\Documents\Programmazione\C\Codewars-in-C\main.c > CMakeFiles\Codewars_in_C.dir\main.c.i
+CMakeFiles/Codewars_in_C.dir/Code/main.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Codewars_in_C.dir/Code/main.c.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\borzo\Documents\Programmazione\C\Codewars-in-C\Code\main.c > CMakeFiles\Codewars_in_C.dir\Code\main.c.i
 
-CMakeFiles/Codewars_in_C.dir/main.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Codewars_in_C.dir/main.c.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\borzo\Documents\Programmazione\C\Codewars-in-C\main.c -o CMakeFiles\Codewars_in_C.dir\main.c.s
+CMakeFiles/Codewars_in_C.dir/Code/main.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Codewars_in_C.dir/Code/main.c.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\borzo\Documents\Programmazione\C\Codewars-in-C\Code\main.c -o CMakeFiles\Codewars_in_C.dir\Code\main.c.s
 
 # Object files for target Codewars_in_C
 Codewars_in_C_OBJECTS = \
-"CMakeFiles/Codewars_in_C.dir/main.c.obj"
+"CMakeFiles/Codewars_in_C.dir/Code/main.c.obj"
 
 # External object files for target Codewars_in_C
 Codewars_in_C_EXTERNAL_OBJECTS =
 
-Codewars_in_C.exe: CMakeFiles/Codewars_in_C.dir/main.c.obj
+Codewars_in_C.exe: CMakeFiles/Codewars_in_C.dir/Code/main.c.obj
 Codewars_in_C.exe: CMakeFiles/Codewars_in_C.dir/build.make
 Codewars_in_C.exe: CMakeFiles/Codewars_in_C.dir/linklibs.rsp
 Codewars_in_C.exe: CMakeFiles/Codewars_in_C.dir/objects1.rsp

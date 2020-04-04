@@ -1,6 +1,6 @@
 #include <ctype.h>
 
-int char_in_array(char c, char *array, int lenght){
+int char_in_array(char c, const char *array, int lenght){
     int i;
     for(i=0; i<lenght; i++){
         if(c == array[i])
@@ -13,7 +13,7 @@ int duplicate_count (const char *text) {
 
     int lenght=0, n_occs=0, n_counted=0, i;
     char c;
-    while((c=text[lenght])!='\0'){
+    while((text[lenght])!='\0'){
         lenght++;
     }
     char occs[lenght], counted[lenght];

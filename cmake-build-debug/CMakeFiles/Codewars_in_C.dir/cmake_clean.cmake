@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Codewars_in_C.dir/main.c.obj"
+  "CMakeFiles/Codewars_in_C.dir/Code/main.c.obj"
   "Codewars_in_C.exe"
   "Codewars_in_C.exe.manifest"
   "Codewars_in_C.pdb"

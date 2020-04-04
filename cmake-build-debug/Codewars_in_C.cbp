@@ -74,7 +74,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/borzo/Documents/Programmazione/C/Codewars-in-C/main.c">
+		<Unit filename="C:/Users/borzo/Documents/Programmazione/C/Codewars-in-C/Code/main.c">
 			<Option target="Codewars_in_C"/>
 		</Unit>
 		<Unit filename="C:/Users/borzo/Documents/Programmazione/C/Codewars-in-C/CMakeLists.txt">

@@ -122,32 +122,32 @@ Codewars_in_C/fast:
 	$(MAKE) -f CMakeFiles\Codewars_in_C.dir\build.make CMakeFiles/Codewars_in_C.dir/build
 .PHONY : Codewars_in_C/fast
 
-main.obj: main.c.obj
+Code/main.obj: Code/main.c.obj
 
-.PHONY : main.obj
+.PHONY : Code/main.obj
 
 # target to build an object file
-main.c.obj:
-	$(MAKE) -f CMakeFiles\Codewars_in_C.dir\build.make CMakeFiles/Codewars_in_C.dir/main.c.obj
-.PHONY : main.c.obj
+Code/main.c.obj:
+	$(MAKE) -f CMakeFiles\Codewars_in_C.dir\build.make CMakeFiles/Codewars_in_C.dir/Code/main.c.obj
+.PHONY : Code/main.c.obj
 
-main.i: main.c.i
+Code/main.i: Code/main.c.i
 
-.PHONY : main.i
+.PHONY : Code/main.i
 
 # target to preprocess a source file
-main.c.i:
-	$(MAKE) -f CMakeFiles\Codewars_in_C.dir\build.make CMakeFiles/Codewars_in_C.dir/main.c.i
-.PHONY : main.c.i
+Code/main.c.i:
+	$(MAKE) -f CMakeFiles\Codewars_in_C.dir\build.make CMakeFiles/Codewars_in_C.dir/Code/main.c.i
+.PHONY : Code/main.c.i
 
-main.s: main.c.s
+Code/main.s: Code/main.c.s
 
-.PHONY : main.s
+.PHONY : Code/main.s
 
 # target to generate assembly for a file
-main.c.s:
-	$(MAKE) -f CMakeFiles\Codewars_in_C.dir\build.make CMakeFiles/Codewars_in_C.dir/main.c.s
-.PHONY : main.c.s
+Code/main.c.s:
+	$(MAKE) -f CMakeFiles\Codewars_in_C.dir\build.make CMakeFiles/Codewars_in_C.dir/Code/main.c.s
+.PHONY : Code/main.c.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... Codewars_in_C
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... main.obj
-	@echo ... main.i
-	@echo ... main.s
+	@echo ... Code/main.obj
+	@echo ... Code/main.i
+	@echo ... Code/main.s
 .PHONY : help
 
 
