@@ -1,12 +1,12 @@
 # Codewars-in-C
 Resolution of some challenges of the website 'Codewars' in C 
 
-### Structure:
+## Structure:
 - **main.c**: main file from where i call all the function i'm gonna create, each function is relative to one challenge;
 - **some_title.c**: file relative to one single challenge, the text of eache challenge are liste below.
 
-### Challenges:
-- ##### Counting Duplicate 
+## Challenges:
+- #### Counting Duplicate 
     - **Objective:** 
         Write a function that will return the count of distinct case-insensitive alphabetic characters and numeric digits 
         that occur more than once in the input string. The input string can be assumed to contain only alphabets 
@@ -21,7 +21,7 @@ Resolution of some challenges of the website 'Codewars' in C
             "aA11" -> 2 # 'a' and '1'
             "ABBA" -> 2 # 'A' and 'B' each occur twice
 
-- ##### Summing a number's digits
+- #### Summing a number's digits
     - **Objective:** 
         Write a function named sumDigits which takes a number as input and returns the sum of the absolute 
         value of each of the number's decimal digits.
@@ -31,7 +31,7 @@ Resolution of some challenges of the website 'Codewars' in C
           sum_digits(99)  // Returns 18
           sum_digits(-32) // Returns 5
           
- - ##### A Rule of Divisibility by 13
+ - #### A Rule of Divisibility by 13
       - **Objective:** 
         When you divide the successive powers of 10 by 13 you get the following remainders of the integer divisions:              
         1, 10, 9, 12, 3, 4. Then the whole pattern repeats. Hence the following method: Multiply the right most digit 
@@ -49,7 +49,7 @@ Resolution of some challenges of the website 'Codewars' in C
            and again with 87:
            7x1 + 8x10 = 87
         
- - ##### Bouncing Balls
+ - #### Bouncing Balls
     - **Objective:**  
         A child is playing with a ball on the nth floor of a tall building. The height of this floor, h, is known.
         He drops the ball out of the window. The ball bounces (for example), to two-thirds of its height 
@@ -65,6 +65,17 @@ Resolution of some challenges of the website 'Codewars' in C
         If all three conditions above are fulfilled, return a positive integer, otherwise return -1.
         
      - **Example:**
-        - h = 3, bounce = 0.66, window = 1.5, result is 3
-        - h = 3, bounce = 1, window = 1.5, result is -1 
-        (Condition 2) not fulfilled).
+     
+            h = 3, bounce = 0.66, window = 1.5, result is 3
+            h = 3, bounce = 1, window = 1.5, result is -1 (Condition 2) not fulfilled).
+            
+ - #### Is a number prime?
+    - **Objective:**
+        Define a function that takes an integer argument and returns logical value true or false depending on if the 
+        integer is a prime.
+        
+    -**Example:**
+            
+        is_prime(1)  /* false */
+        is_prime(2)  /* true  */
+        is_prime(-1) /* false */
