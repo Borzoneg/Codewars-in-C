@@ -12,26 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03219d97-adcc-4c3d-a1cd-6a18c4ccde49" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Code/A Rule of Divisibility by 13.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Summing number's digit.c" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Summing number's digit.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Codewars_in_C.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Codewars_in_C.dir/C.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Codewars_in_C.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Codewars_in_C.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Codewars_in_C.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Codewars_in_C.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Codewars_in_C.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Codewars_in_C.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Codewars_in_C.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Codewars_in_C.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Codewars_in_C.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Codewars_in_C.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Codewars_in_C.dir/main.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Codewars_in_C.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Codewars_in_C.dir/objects.a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Codewars_in_C.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Codewars_in_C.dir/objects1.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Codewars_in_C.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Codewars_in_C.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Codewars_in_C.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Codewars_in_C.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/counting duplicates.c" beforeDir="false" afterPath="$PROJECT_DIR$/Code/counting duplicates.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Code/main.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,6 +91,8 @@
       <workItem from="1585939915593" duration="1284000" />
       <workItem from="1585944229709" duration="2482000" />
       <workItem from="1585990980284" duration="3533000" />
+      <workItem from="1585995287203" duration="33000" />
+      <workItem from="1585995436329" duration="441000" />
     </task>
     <task id="LOCAL-00001" summary="First challenge counting duplicates">
       <created>1585650100748</created>
@@ -131,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585948256202</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Second challenge">
+      <created>1585995308690</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585995308690</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,10 +135,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Second challenge" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="375" y="26" key="CommitChangelistDialog2" timestamp="1585948255780">
+    <state x="375" y="26" key="CommitChangelistDialog2" timestamp="1585995308152">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="375" y="26" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1585948255780" />
+    <state x="375" y="26" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1585995308152" />
     <state width="1493" height="277" key="GridCell.Tab.0.bottom" timestamp="1585995274525">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -164,10 +155,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1493" height="277" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1585995274525" />
-    <state x="361" y="164" key="Vcs.Push.Dialog.v2" timestamp="1585948259254">
+    <state x="361" y="164" key="Vcs.Push.Dialog.v2" timestamp="1585995311291">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="164" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1585948259254" />
+    <state x="361" y="164" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1585995311291" />
     <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1585993493536">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
