@@ -3,7 +3,7 @@ Resolution of some challenges of the website 'Codewars' in C
 
 ## Structure:
 - **main.c**: main file from where i call all the function i'm gonna create, each function is relative to one challenge;
-- **some_title.c**: file relative to one single challenge, the text of eache challenge are liste below.
+- **some_title.c**: file relative to one single challenge, the text of each challenge are lists below.
 
 ## Challenges:
 - #### Counting Duplicate 
@@ -70,12 +70,46 @@ Resolution of some challenges of the website 'Codewars' in C
             h = 3, bounce = 1, window = 1.5, result is -1 (Condition 2) not fulfilled).
             
  - #### Is a number prime?
-    - **Objective:**
+    - **Objective:**  
         Define a function that takes an integer argument and returns logical value true or false depending on if the 
         integer is a prime.
         
-    -**Example:**
+    - **Example:**  
             
-        is_prime(1)  /* false */
-        is_prime(2)  /* true  */
-        is_prime(-1) /* false */
+            is_prime(1)  /* false */
+            is_prime(2)  /* true  */
+            is_prime(-1) /* false */
+     
+  - #### Vasya - Clerk   
+       - **Objective:**  
+       The new "Avengers" movie has just been released! There are a lot of people at the cinema box office standing in a
+       huge line. Each of them has a single 100, 50 or 25 dollar bill. An "Avengers" ticket costs 25 dollars. 
+       Vasya is currently working as a clerk. He wants to sell a ticket to every single person in this line.
+       Can Vasya sell a ticket to every person and give change if he initially has no money and sells the tickets strictly in 
+       the order people queue?
+     - **Example:**
+     
+             tickets(3, {25, 25, 50}) // => true
+             tickets(2, {25, 100}) // => false. Vasya will not have enough money to give change to 100 dollars
+             tickets(5, {25, 25, 50, 50, 100}) // => false. Vasya will not have the right bills to give 75 dollars of change (you can't make two bills of 25 from one of 50)
+
+ - #### Valid parentheses
+       
+      - **Objective:**  
+         Write a function called that takes a string of parentheses, and determines if the order of the parentheses is valid. The function should return true if the 
+         string is valid, and false if it's invalid.
+         
+      - **Examples:**
+
+             "()"              =>  true
+             ")(()))"          =>  false
+             "("               =>  false
+             "(())((()())())"  =>  true
+ 
+ - #### Maximum subarray sum
+
+     - **Objective:**  
+     The maximum sum subarray problem consists in finding the maximum sum of a contiguous subsequence in an array or list of integers:
+    - **Examples:**  
+     maxSequence({-2, 1, -3, 4, -1, 2, 1, -5, 4}, 9)
+     // should return 6, from sub-array: {4, -1, 2, 1}

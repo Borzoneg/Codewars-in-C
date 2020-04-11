@@ -16,12 +16,20 @@ C:/Users/borzo/Documents/Programmazione/C/Codewars-in-C/Code/Divisibility-by-13.
 stdlib.h
 -
 
+C:/Users/borzo/Documents/Programmazione/C/Codewars-in-C/Code/Maximum-subarray-sum.c
+stddef.h
+-
+
 C:/Users/borzo/Documents/Programmazione/C/Codewars-in-C/Code/Number-prime.c
 stdbool.h
 -
 
 C:/Users/borzo/Documents/Programmazione/C/Codewars-in-C/Code/Summing-number's-digit.c
 stdlib.h
+-
+
+C:/Users/borzo/Documents/Programmazione/C/Codewars-in-C/Code/Valid-parentheses.c
+stdbool.h
 -
 
 C:/Users/borzo/Documents/Programmazione/C/Codewars-in-C/Code/main.c
@@ -37,4 +45,8 @@ Bouncing-balls.c
 C:/Users/borzo/Documents/Programmazione/C/Codewars-in-C/Code/Bouncing-balls.c
 Number-prime.c
 C:/Users/borzo/Documents/Programmazione/C/Codewars-in-C/Code/Number-prime.c
+Valid-parentheses.c
+C:/Users/borzo/Documents/Programmazione/C/Codewars-in-C/Code/Valid-parentheses.c
+Maximum-subarray-sum.c
+C:/Users/borzo/Documents/Programmazione/C/Codewars-in-C/Code/Maximum-subarray-sum.c
 
