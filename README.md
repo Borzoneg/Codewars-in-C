@@ -113,3 +113,14 @@ Resolution of some challenges of the website 'Codewars' in C
     - **Examples:**  
      maxSequence({-2, 1, -3, 4, -1, 2, 1, -5, 4}, 9)
      // should return 6, from sub-array: {4, -1, 2, 1}
+     
+ - #### int32 to IPv4
+    
+    - **Objective:**  
+     Complete the function that takes an unsigned 32 bit number and returns a string representation of its IPv4 address.
+     Examples
+     
+     - **Examples:**  
+     2149583361 ==> "128.32.10.1"  
+     32         ==> "0.0.0.32"  
+     0          ==> "0.0.0.0"  

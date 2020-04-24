@@ -16,6 +16,12 @@ C:/Users/borzo/Documents/Programmazione/C/Codewars-in-C/Code/Divisibility-by-13.
 stdlib.h
 -
 
+C:/Users/borzo/Documents/Programmazione/C/Codewars-in-C/Code/Int32 to IPv4.c
+inttypes.h
+-
+math.h
+-
+
 C:/Users/borzo/Documents/Programmazione/C/Codewars-in-C/Code/Maximum-subarray-sum.c
 stddef.h
 -
@@ -49,4 +55,6 @@ Valid-parentheses.c
 C:/Users/borzo/Documents/Programmazione/C/Codewars-in-C/Code/Valid-parentheses.c
 Maximum-subarray-sum.c
 C:/Users/borzo/Documents/Programmazione/C/Codewars-in-C/Code/Maximum-subarray-sum.c
+Int32 to IPv4.c
+C:/Users/borzo/Documents/Programmazione/C/Codewars-in-C/Code/Int32 to IPv4.c
 

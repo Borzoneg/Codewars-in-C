@@ -4,6 +4,7 @@
 CMakeFiles/Codewars_in_C.dir/Code/main.c.obj: ../Code/Bouncing-balls.c
 CMakeFiles/Codewars_in_C.dir/Code/main.c.obj: ../Code/Counting-duplicates.c
 CMakeFiles/Codewars_in_C.dir/Code/main.c.obj: ../Code/Divisibility-by-13.c
+CMakeFiles/Codewars_in_C.dir/Code/main.c.obj: ../Code/Int32\ to\ IPv4.c
 CMakeFiles/Codewars_in_C.dir/Code/main.c.obj: ../Code/Maximum-subarray-sum.c
 CMakeFiles/Codewars_in_C.dir/Code/main.c.obj: ../Code/Number-prime.c
 CMakeFiles/Codewars_in_C.dir/Code/main.c.obj: ../Code/Summing-number's-digit.c
