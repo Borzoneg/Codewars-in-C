@@ -11,18 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03219d97-adcc-4c3d-a1cd-6a18c4ccde49" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Code/Int32 to IPv4.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Code/main.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Codewars_in_C.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Codewars_in_C.dir/C.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Codewars_in_C.dir/Code/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Codewars_in_C.dir/Code/main.c.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Codewars_in_C.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Codewars_in_C.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Codewars_in_C.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Codewars_in_C.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Codewars_in_C.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Codewars_in_C.dir/objects.a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Codewars_in_C.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Codewars_in_C.exe" afterDir="false" />
-    </list>
+    <list default="true" id="03219d97-adcc-4c3d-a1cd-6a18c4ccde49" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,7 +94,7 @@
       <workItem from="1586284764420" duration="244000" />
       <workItem from="1586619589788" duration="1727000" />
       <workItem from="1586633784836" duration="1649000" />
-      <workItem from="1587744016355" duration="3510000" />
+      <workItem from="1587744016355" duration="3595000" />
     </task>
     <task id="LOCAL-00001" summary="First challenge counting duplicates">
       <created>1585650100748</created>
@@ -156,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586635419021</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="New challenge">
+      <created>1587747608529</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1587747608529</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,41 +165,46 @@
     <MESSAGE value="Third challenge" />
     <MESSAGE value="Fourth and fifth challenges" />
     <MESSAGE value="Sixth and seventh challenges" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sixth and seventh challenges" />
+    <MESSAGE value="New challenge" />
+    <option name="LAST_COMMIT_MESSAGE" value="New challenge" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="375" y="26" key="CommitChangelistDialog2" timestamp="1586635418581">
+    <state x="375" y="26" key="CommitChangelistDialog2" timestamp="1587747607861">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="375" y="26" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1586635418581" />
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1587746907586">
+    <state x="375" y="26" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1587747607861" />
+    <state x="548" y="173" width="539" height="518" key="FileChooserDialogImpl" timestamp="1587747669321">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="548" y="173" width="539" height="518" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1587747669321" />
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom" timestamp="1587747673011">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.800.480@0.0.1536.864" timestamp="1586620721882" />
-    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1587746907586" />
-    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1587746907585">
+    <state width="1493" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1587747673011" />
+    <state width="1493" height="223" key="GridCell.Tab.0.center" timestamp="1587747673011">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.800.480@0.0.1536.864" timestamp="1586620721882" />
-    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1587746907585" />
-    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1587746907584">
+    <state width="1493" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1587747673011" />
+    <state width="1493" height="223" key="GridCell.Tab.0.left" timestamp="1587747673011">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.800.480@0.0.1536.864" timestamp="1586620721881" />
-    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1587746907584" />
-    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1587746907585">
+    <state width="1493" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1587747673011" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right" timestamp="1587747673011">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.800.480@0.0.1536.864" timestamp="1586620721882" />
-    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1587746907585" />
+    <state width="1493" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1587747673011" />
     <state x="277" y="74" key="SettingsEditor" timestamp="1587745162340">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="277" y="74" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1587745162340" />
-    <state x="361" y="164" key="Vcs.Push.Dialog.v2" timestamp="1586635420878">
+    <state x="361" y="164" key="Vcs.Push.Dialog.v2" timestamp="1587747610275">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="164" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1586635420878" />
+    <state x="361" y="164" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1587747610275" />
     <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1585993493536">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
